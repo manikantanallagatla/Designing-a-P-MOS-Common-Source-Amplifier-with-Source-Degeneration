@@ -1,7 +1,7 @@
-#***Designing-a-P-MOS-Common-Source-Amplifier-with-Source-Degeneration:***
+# ***Designing-a-P-MOS-Common-Source-Amplifier-with-Source-Degeneration:***
 
 ----------
-###*Aim*:
+### *Aim*:
 
 ----------
 
@@ -18,7 +18,7 @@ Common Source Amplifier with Source Degeneration Specifications:
 - Degeneration realization:Saturated PMOS
 
 -------------
-###*Softwares Used*:
+### *Softwares Used*:
 
 -------------
 
@@ -26,7 +26,7 @@ LT Spice
 
 
 -------------
-###*Usage*:
+### *Usage*:
 
 -------------
 
